@@ -4,7 +4,7 @@ Hello, this is my profile!
 
 - Welcome to my GitHub page.
 
-显示呀呀呀
+为什么不显示
 
 可我不敌可爱
 
